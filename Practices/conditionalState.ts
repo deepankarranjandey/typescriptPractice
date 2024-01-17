@@ -37,3 +37,25 @@ else{
     console.log("This is 0 value")
 }
 
+
+// nested conditions
+
+let num5=-10;
+
+if (num5>=0)
+{
+    if(num5==0)
+    {
+        console.log("The number is zero")
+
+    }
+    else
+    {
+        console.log("the number is positive")
+    }
+}
+
+else
+{
+    console.log("number is negative")
+}
