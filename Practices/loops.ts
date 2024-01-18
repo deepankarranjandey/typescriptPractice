@@ -44,14 +44,14 @@
 
 // for(let i=0;i<num10;i++)
 // {
-//     if(i==5)
-//     {
-//         continue;
-//     }
-//     else if (i==7)
-//     {
-//         break;
-//     }
-//     console.log(i);
+//     // if(i==5)
+//     // {
+//     //     continue;
+//     // }
+//     // else if (i==7)
+//     // {
+//     //     break;
+//     // }
+//     // console.log(i);
 // }
 
