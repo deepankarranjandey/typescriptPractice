@@ -37,3 +37,15 @@ function add (a: number, b: number=0)
 
 add(1,2);
 add(1);
+
+
+const multiply1 =(a:number, b : number): number => a*b;
+
+console.log(multiply1);
+
+let e =10;
+let f=20;
+type matchOperations= (a:number, b: number)=> number;
+
+const addNew:matchOperations(e,f) => e+f;
+
