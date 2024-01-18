@@ -46,5 +46,16 @@ console.log(sliceArray);
 const doubleArray = numbers.map((num)=> num*2);
 console.log(doubleArray);
 
+const filteredArray = numbers.filter((num)=> num>2 );
+console.log(numbers)
+console.log(filteredArray)
+
+
+// read only arrays
+
+const readyOnlyArr: readonly number[]= [1,2,3];
+
+console.log(readyOnlyArr)
+
 
 
